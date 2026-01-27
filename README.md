@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Guida passo passo per avviare il progetto senza errori
 
 1. **Abilitare l'esecuzione degli script in PowerShell (solo Windows):**
@@ -51,3 +52,6 @@ Seguendo questi passaggi, chiunque potrà avviare e visualizzare il progetto sen
 
   Run `npm run dev` to start the development server.
   
+=======
+# Progetto-pagina-Web-Marano-Lagunare
+>>>>>>> eaf1db32a2bb4aa541bc13c5350cd24e2372ff2d
