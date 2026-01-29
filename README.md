@@ -5,10 +5,34 @@
 
   Questa repository contiene solo la pagina principale (homepage) di un sito web dedicato al paese di Marano Lagunare, in Friuli Venezia Giulia. Il progetto è una demo statica e non rappresenta un sito completo, ma offre una panoramica grafica e informativa sulla località.
 
+
+## Guida all'attivazione
+
+Seguire questi passaggi in ordine per configurare l'ambiente e visualizzare la pagina sul proprio computer.
+
+### Installazione di Node.js
+Il progetto richiede l'ambiente Node.js per gestire le librerie e il server locale.
+
+* **Windows:** Scaricare l'installer .msi (versione LTS) dal sito ufficiale nodejs.org. In alternativa, aprire PowerShell e digitare:
+    ```powershell
+    winget install OpenJS.NodeJS.LTS
+    ```
+* **macOS:** Scaricare l'installer .pkg dal sito ufficiale oppure utilizzare Homebrew:
+    ```bash
+    brew install node
+    ```
+* **Linux (Ubuntu/Debian):** Utilizzare il terminale per installare Node.js e npm:
+    ```bash
+    sudo apt update
+    sudo apt install nodejs npm
+    ```
+
+**Verifica:** Digitare `node -v` nel terminale. Se appare una versione (es. v20.x.x), l'installazione è corretta.
   ## Avvio rapido del progetto
 
   **1. Abilita l’esecuzione degli script in PowerShell (solo Windows):**
-  Se ricevi un errore come “Impossibile caricare il file npm.ps1. L’esecuzione di script è disabilitata”, apri PowerShell e digita:
+  Se ricevi un errore come “Impossibile caricare il file npm.ps1. L’esecuzione di script è disabilitata”, oppure se su PowerShell appare l'errore "esecuzione di script disabilitata", eseguire questo comando per sbloccare npm:
+```powershell:
 
   ```powershell
   Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
