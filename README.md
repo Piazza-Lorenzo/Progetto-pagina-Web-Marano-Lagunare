@@ -1,47 +1,35 @@
+# Progetto – Pagina Web Marano Lagunare
 
+Questo repository contiene il codice sorgente di una **pagina web dedicata a Marano Lagunare**, un piccolo paese tra mare e laguna nel Friuli Venezia Giulia.
 
-  # Web Page for Marano Lagunare 
+Il progetto è stato sviluppato come esercizio web utilizzando **React, Vite e GitHub Pages**.
 
-  Questo repository contiene il codice per la Web Page di Marano Lagunare. 
+---
 
-  ## Guida passo-passo per avviare il programma
+## 🌐 Sito web pubblico
 
-  ### 1. Installazione di Python
+➡️ **Il sito è visitabile pubblicamente a questo indirizzo:**
 
-  Se non hai Python installato sul tuo computer, segui questi passaggi:
+👉 **https://piazza-lorenzo.github.io/Progetto-pagina-Web-Marano-Lagunare/**
 
-  1. Vai sul sito ufficiale di Python: [https://www.python.org/downloads/](https://www.python.org/downloads/)
-  2. Scarica la versione consigliata per il tuo sistema operativo (Windows, macOS, Linux).
-  3. Avvia l'installer e **assicurati di selezionare la casella "Add Python to PATH"** prima di cliccare su "Install Now".
-  4. Completa l'installazione seguendo le istruzioni a schermo.
-  5. Per verificare che Python sia installato correttamente, apri il terminale (PowerShell su Windows) e digita:
-    ```
-    python --version
-    ```
-    Dovresti vedere la versione di Python installata.
+⚠️ **Nota:**  
+Il repository contiene solo il codice.  
+Per vedere il sito funzionante **non bisogna aprire i file del repository**, ma **visitare direttamente il link sopra** tramite browser.
 
-  ### 2. Installazione delle dipendenze del progetto
+---
 
-  1. Apri il terminale nella cartella del progetto.
-  2. Installa le dipendenze Node.js digitando:
-    ```
-    npm i
-    ```
+## 🛠 Tecnologie utilizzate
 
-  ### 3. Avvio del server di sviluppo
+- React
+- Vite
+- HTML / CSS
+- GitHub Pages
+- GitHub Actions (deploy automatico)
 
-  1. Sempre dal terminale, avvia il server digitando:
-    ```
-    npm run dev
-    ```
-  2. Apri il browser e vai all'indirizzo indicato nel terminale (di solito [http://localhost:5173](http://localhost:5173)).
+---
 
-  ### 4. Risoluzione dei problemi
+## 👤 Autore
 
-  Se riscontri errori relativi a Python, assicurati che sia installato e che sia stato aggiunto al PATH. Se hai bisogno di installare altri pacchetti Python, puoi farlo con:
-  ```
-  pip install nome_pacchetto
-  ```
+Progetto realizzato da **Lorenzo Piazza**.
 
-  Per qualsiasi problema, consulta la documentazione ufficiale di Python o Node.js.
   
