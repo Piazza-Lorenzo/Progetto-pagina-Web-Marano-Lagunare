@@ -13,19 +13,19 @@ export function About() {
             </h2>
             <div className="space-y-4 text-gray-700">
               <p>
-                Marano Lagunare è un paese di pescatori in provincia di Udine (Friuli Venezia Giulia). <br>
+                Marano Lagunare è un paese di pescatori in provincia di Udine (Friuli Venezia Giulia). 
                 È un piccolo borgo antico, le prime tracce risalgono all'epoca romana, ma è diventato 
                 davvero importante nel Medioevo quando era un porto fortificato.
               </p>
               <p>
-                Il paese è circondato dalla Laguna di Marano con una superficie di oltre 160 km². <br>
-                La laguna è un luogo protetto tanto da essere riconosciuta come riserva naturale. <br>
+                Il paese è circondato dalla Laguna di Marano con una superficie di oltre 160 km². 
+                La laguna è un luogo protetto tanto da essere riconosciuta come riserva naturale. 
                 Si possono trovare numerose specie animali, soprattutto volatili, perfetta da visitare per 
                 gli amanti della natura.
               </p>
               <p>
                 L'attività lavorativa principale è rimasta la pesca. Nel porto ci sono moltissime 
-                barche colorate chiamate "batèle". <br>
+                barche colorate chiamate "batèle". 
                 Il centro storico è bellissimo, con canali e ponti che lo fanno sembrare una mini-Venezia friulana.
               </p>
             </div>
