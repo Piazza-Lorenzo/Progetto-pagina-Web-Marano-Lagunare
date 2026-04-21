@@ -19,7 +19,7 @@ export default defineConfig({
 })
 import { defineConfig } from 'vite'
 
-// https://vitejs.dev/config/
 export default defineConfig({
-  base: '/Progetto-pagina-Web-Marano-Lagunare/',
+  plugins: [react()],
+  base: "/Progetto-pagina-Web-Marano-Lagunare/",
 })
